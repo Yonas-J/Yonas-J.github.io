@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", () => {
-    console.log("Aesthetic website loaded! ✨");
+    console.log("Yonas' website loaded! ✨");
 });
